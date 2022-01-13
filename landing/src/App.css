@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --primary:#eed16b;
+  --secondary:#222222;
+
+
+}
+
+.App {
+  position: relative;
+}
+.img_container{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  border-radius: 1000px;
+
+}
+.img{
+  position: absolute;
+  left: calc(50vw - 30vh);
+  top: calc(50vh - 30vh);
+  width: 60vh;
+  height: 60vh;
+  border-radius: 1000px;
+
+
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ball{
+  position: absolute;
+  top: 10vh;
+  left: -30vw;
+  width: 80vw;
+  height: 80vw;
+  background-color: var(--primary);
+  border-radius: 2000px;
+  z-index: -1;
+}

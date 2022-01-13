@@ -1,0 +1,19 @@
+{
+  "name": "landing_maya_angelou_fotografia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDavidSys/Landing_Maya_Angelou_Fotografia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevDavidSys/Landing_Maya_Angelou_Fotografia/issues"
+  },
+  "homepage": "https://github.com/DevDavidSys/Landing_Maya_Angelou_Fotografia#readme"
+}
